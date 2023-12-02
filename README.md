@@ -2,7 +2,9 @@
 
 # Super Sale Dashboard Project
 
-Welcome to the Super Sale Dashboard project! This Power BI Desktop project is designed to provide a comprehensive and visually appealing overview of sales data, enabling users to gain valuable insights into their business performance. Whether you're a business owner, manager, or analyst, this dashboard is crafted to meet your data visualization needs and help you make informed decisions.
+**Welcome to the Super Sale Dashboard project!**
+
+This **Power BI Desktop project** is designed to provide a comprehensive and visually appealing overview of sales data, enabling users to gain valuable insights into their business performance. Whether you're a business owner, manager, or analyst, this dashboard is crafted to meet your data visualization needs and help you make informed decisions.
 
 **Features**
 
