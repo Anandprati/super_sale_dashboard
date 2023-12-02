@@ -34,4 +34,4 @@ To get started with the Super Sale Dashboard project, follow these steps:
 
 **Save and Share:** Save your changes and share the customized dashboard with your team or stakeholders. You can also publish it to the Power BI service for online access.
 
-![Screenshot 2023-12-02 110629](https://github.com/Anandprati/super_sale_dashboard/assets/94226733/8650a144-ad41-4f25-a68e-9d584587f7c2)
+![Screenshot 2023-12-02 114206](https://github.com/Anandprati/super_sale_dashboard/assets/94226733/43363c30-abf4-4ffa-a831-e2d0eb547a94)
